@@ -17,7 +17,7 @@
   ],
   "author": "Petro Holovetskyi <petro.holovetskyi@gmail.com>",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "webpack": "^5.90.0",
     "chalk": "^4.1.2"
   }
