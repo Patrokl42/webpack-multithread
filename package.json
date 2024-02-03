@@ -1,6 +1,6 @@
 {
   "name": "webpack-multithread",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Run multiple webpack configurations parallel (using worker_threads underhood)",
   "main": "index.js",
   "engines": {
@@ -16,7 +16,7 @@
     "web"
   ],
   "author": "Petro Holovetskyi <petro.holovetskyi@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "webpack": "^5.90.0",
     "chalk": "^4.1.2"
